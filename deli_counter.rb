@@ -8,7 +8,7 @@ def line(the_line)
     message = "The line is currently empty."
   end
   
-  return message
+  puts message
 end
   
   
